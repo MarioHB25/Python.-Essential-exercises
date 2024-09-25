@@ -8,6 +8,7 @@ This program registers a new user by checking the following requirements:
 3. That the email contains an “@“ and a “.”
 '''
 
+#This function checks whether the data entered meets the registration requirements
 def validar_formulario(nombre, correo, tlf):
     if (len(nombre) >= 3) and ('@'in correo) and ('.' in correo) and (len(tlf) == 9) and (tlf.isdigit()):
         print('Los datos introducidos cumplen con los requisitos')
