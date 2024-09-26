@@ -13,21 +13,30 @@ Each file has a descriptive name that refers to its usefulness and within them y
 
 ## Table of Contents 📚
 
-|                 Exercises                  |                   Solved Exercises                         |
-|--------------------------------------------|------------------------------------------------------------|
-| [Variables and Data Types][ex1]            | [Variables and Data Types Solved][sol1]                    |
-| [Logical and Comparison Operators][ex2]    | [Logical and Comparison Operators Solved][sol2]            |
-| [Conditionals][ex3]                        | [Conditionals Solved][sol3]                                |
-| [Loops][ex4]                               | [Loops Solved][sol4]                                       |
+<details><summary><h3>Conditional structures and loops <a href="https://github.com/MarioHB25/Python.-Essential-exercises/tree/main/Conditional%20structures%20and%20loops">[go folder]</a> :open_file_folder: </h3></summary>
 
-[ex1]: Exercises_in_English/Quetions_Variables_and_Data_Types.md
-[sol1]: Exercises_in_English/ENG_variables_and_data_types.js
-[ex2]: Exercises_in_English/Questions_Logical_and_Comparison_Operators.md
-[sol2]: Exercises_in_English/ENG_logical_operators_and_comparisons.js
-[ex3]: Exercises_in_English/Questions_Conditionals.md
-[sol3]: Exercises_in_English/ENG_conditionalStructures.js
-[ex4]: Exercises_in_English/Quiestions_Loops.md
-[sol4]: Exercises_in_English/ENG_bucles_control.js
+<div>
+  <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Conditional%20structures%20and%20loops/Data%20analysis.py">Data Analysis</a>
+  </p>
+   
+   <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Conditional%20structures%20and%20loops/Employee%20database.py">Employee database</a>
+   </p>
+   
+   <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Conditional%20structures%20and%20loops/Error%20control.py">Error control</a>
+   </p>
+
+   <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Conditional%20structures%20and%20loops/Game%20scores.py">Game scores</a>
+   </p>
+
+   <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Conditional%20structures%20and%20loops/Remove%20duplicates.py">Remove duplicates</a>
+   </p>
+</div>
+</details>
 
 ## License 📜
 
