@@ -7,7 +7,7 @@
 
 This repository contains different exercises and projects made with python. You can find in everything from basic exercises to simulations of fully functional systems for different situations.
 
-## Características 🛠️
+## Characteristics 🛠️
 
 Each file has a descriptive name that refers to its usefulness and within them you can find detailed comments about its operation.
 
@@ -29,6 +29,6 @@ Each file has a descriptive name that refers to its usefulness and within them y
 [ex4]: Exercises_in_English/Quiestions_Loops.md
 [sol4]: Exercises_in_English/ENG_bucles_control.js
 
-## Licencia 📜
+## License 📜
 
 Este proyecto está bajo la licencia [MIT] - Consulta el archivo [LICENSE](LICENSE) para más detalles.
