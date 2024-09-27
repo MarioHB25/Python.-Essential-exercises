@@ -13,7 +13,7 @@ Each file has a descriptive name that refers to its usefulness and within them y
 
 ## Table of Contents 📚
 
-<details><summary><h3>Conditional structures and loops <a href="https://github.com/MarioHB25/Python.-Essential-exercises/tree/main/Conditional%20structures%20and%20loops">[go folder]</a> :open_file_folder: </h3></summary>
+<details><summary><h3>Conditional structures and loops<a href="https://github.com/MarioHB25/Python.-Essential-exercises/tree/main/Conditional%20structures%20and%20loops">[go folder]</a> :open_file_folder: </h3></summary>
 
 <div>
   <p align="center">
@@ -34,6 +34,52 @@ Each file has a descriptive name that refers to its usefulness and within them y
 
    <p align="center">
       -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Conditional%20structures%20and%20loops/Remove%20duplicates.py">Remove duplicates</a>
+   </p>
+
+   <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Conditional%20structures%20and%20loops/Task%20management.py">Task management</a>
+   </p>
+
+   <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Conditional%20structures%20and%20loops/Vote%20counting.py">Vote counting</a>
+   </p>
+</div>
+</details>
+
+<details><summary><h3>Functions and Classes<a href="https://github.com/MarioHB25/Python.-Essential-exercises/tree/main/Functions%20and%20Classes">[go folder]</a> :open_file_folder: </h3></summary>
+
+<div>
+  <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Functions%20and%20Classes/Employee%20management.py">Employee management</a>
+  </p>
+   
+   <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Functions%20and%20Classes/Favorite%20number.py">Favorite number</a>
+   </p>
+   
+   <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Functions%20and%20Classes/Flight%20reservations.py">Flight reservations</a>
+   </p>
+
+   <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Functions%20and%20Classes/Inventory%20management.py">Inventory management</a>
+   </p>
+
+   <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Functions%20and%20Classes/Managing%20a%20library.py">Managing a library</a>
+   </p>
+
+   <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Functions%20and%20Classes/Sales%20management.py">Sales management</a>
+   </p>
+
+   <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-
+exercises/blob/main/Functions%20and%20Classes/Task%20list.py">Task list</a>
+   </p>
+
+   <p align="center">
+      -<a href="https://github.com/MarioHB25/Python.-Essential-exercises/blob/main/Functions%20and%20Classes/User%20registration.py">User registration</a>
    </p>
 </div>
 </details>
