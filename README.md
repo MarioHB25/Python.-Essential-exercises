@@ -86,4 +86,4 @@ exercises/blob/main/Functions%20and%20Classes/Task%20list.py">Task list</a>
 
 ## License 📜
 
-Este proyecto está bajo la licencia [MIT] - Consulta el archivo [LICENSE](LICENSE) para más detalles.
+This project is licensed under the [MIT] License - See the [LICENSE](LICENSE) file for details.
